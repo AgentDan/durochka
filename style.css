@@ -50,7 +50,7 @@ header p {
 }
 
 .button:hover {
-    background: #8873FF;
+    background: linear-gradient(100deg, #C073FF, #FF73D5);
     color: white;
 }
 
